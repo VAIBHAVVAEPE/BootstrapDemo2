@@ -1,0 +1,16 @@
+﻿.content{
+    width:90%;
+
+}
+.content .row{
+    margin-top:10px;
+}
+.contrnt .card{
+    width:98% !important;
+    border:none;
+    box-shadow:4px 5px 4px #00ff90;
+    padding-right:15px !important;
+}
+img{
+    width:100%;
+}
